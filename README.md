@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# PLANNER
 
-`CURSO`
+`Análise e Desenvolvimento de Software`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`3º Semestre (2023)`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Walber Gomes
+* Juliana Machado 
+* Rayane Silva
+* Hiago Filippe
+* Leonardo Gonçalves
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Silva Caldeira Rocha
 
 ## Instruções de utilização
 

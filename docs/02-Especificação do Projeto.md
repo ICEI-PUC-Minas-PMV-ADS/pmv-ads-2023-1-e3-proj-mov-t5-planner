@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |Maria de Fátima     | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![1]![image](https://user-images.githubusercontent.com/103972585/223270233-a9813350-f227-4b4e-bd93-ebb044f604b8.png)
+|![image](https://user-images.githubusercontent.com/103972585/223270233-a9813350-f227-4b4e-bd93-ebb044f604b8.png)
 
 
 

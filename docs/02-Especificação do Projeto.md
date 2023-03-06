@@ -38,25 +38,28 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 
 
-
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                       |
+|--------------------|------------------------------------|----------------------------------------------|
+|Maria de Fátima      | Conseguir acompanhar meus afazeres do dia   | Ser mais produtiva                    |
+|Maria de Fátima      | Ter uma saúde melhor                         | Viver mais anos                      |
+|Maria de Fátima      | Melhorar o condicionamento físico | Conseguir continuar realizando todas as tarefas |
+|Maria de Fátima      | Conhecer maneiras de acompanhar minha rotina | Permitir que possam administrar contas |
+|Gabriel Almeida      | Criar hábitos saudáveis             | Para conseguir achar uma mulher                |
+|Gabriel Almeida      | Deixar de procrastinar                  | Para concluir os objetivos diários  |
+|Marcelo Gonçalves    | Organizar seus afazeres diários | Conseguir completar o maior número de tarefas possíveis |
+|Marcelo Gonçalves    | Gerenciar melhor o seu dia | Poder passar um tempo de qualidade com sua família  |
+|Marcelo Gonçalves    | Rastrear seus feitos ao longo da semana | Não esquecer de fazê-las               |
+|Marcos Ribeiro Souza | Controlar melhor o meu tempo. | Passar mais tempo com a família.  |
+|Marcos Ribeiro Souza | Criar hábitos melhores. | Conseguir atingir os meus objetivos.            |
+|Marcos Ribeiro Souza | Um aplicativo. Controlar meus afazeres e não esquecer de nenhum.  |
+|Ana Paula Santana    | Identificar e organizar as tarefas da minha rotina. | Identificar e organizar as tarefas da minha rotina. |
+|Ana Paula Santana    | Ser capaz de controlar meu tempo e minha rotina. | Encontrar tempo para praticar hobbies, encontrar com amigos e familiares e dedicar a mim |
+|Ana Paula Santana    | Criar novo hábito e praticá-lo. | Melhorar qualidade de vida.  |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 

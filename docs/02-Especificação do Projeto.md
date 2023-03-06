@@ -10,7 +10,33 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |Maria de Fátima     | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://user-images.githubusercontent.com/103972585/223270233-a9813350-f227-4b4e-bd93-ebb044f604b8.png)
+|![image](https://user-images.githubusercontent.com/103972585/223270233-a9813350-f227-4b4e-bd93-ebb044f604b8.png)| **Idade:** 45 <br> **Ocupação:** Professora | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Netflix <br> ⦁ Pinterest <br> ⦁ WhatsApp 
+| **Motivações:** <br> ⦁ Se manter estável financeiramente. <br> ⦁ Poder viajar mais. <br> ⦁ Cuidar da saúde. <br> ⦁ Tempo hábil com sua família | **Frustrações:**<br> ⦁ Não consegue colocar a academia na rotina <br> ⦁ Hábitos alimentares ruins |  **Hobbies, História:**<br> ⦁ Estudar. <br> ⦁ Beber. <br> ⦁ Tempo de qualidade com a família. <br> ⦁ Viajar. |
+
+
+|Gabriel Almeida      | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](https://user-images.githubusercontent.com/103972585/223275758-56a08ab9-6d45-4136-9353-8b61cf51fc11.png)| **Idade:** 23 <br> **Ocupação:** Operador de média audiovisual, funcionário de uma emissora de TV aberta | **Aplicativos:** <br> ⦁ Youtube  <br> ⦁ Instagram <br> ⦁ WhatsApp 
+| **Motivações:** <br> ⦁ Melhorar qualidade de vida. <br> ⦁ Melhores hábitos. <br> ⦁ Conseguir uma nova certificação.  <br> ⦁  Promoção no emprego. | **Frustrações:**<br> ⦁ Não consegue emagrecer.  <br> ⦁ Dificuldade em criar hábitos |  **Hobbies, História:**<br> ⦁ Jogar. <br> ⦁ Natação. <br> ⦁ Assistir vídeo no Youtube. |
+
+
+|Marcelo Gonçalves       | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](https://user-images.githubusercontent.com/103972585/223276603-a55cebfc-bcd8-4f1c-8417-a3b36b78195a.png)| **Idade:** 31 <br> **Ocupação:**  Empresário - Atua no mercado financeiro sendo sócio fundador de uma corretora de investimentos. | **Aplicativos:** <br> ⦁ Linkedin  <br> ⦁ Instagram <br> ⦁ WhatsApp <br> ⦁ Microsoft Teams 
+| **Motivações:** <br> ⦁ Aumentar o número de acionistas de sua empresa <br> ⦁ Conseguir que sua corretora seja top 3 nacional  <br> ⦁ Que sua empresa esteja no portfólio de Warren Buffet | **Frustrações:**<br> ⦁ Não consegue passar tempo com a família  <br> ⦁ Se acha improdutivo em certos dias <br> ⦁ Tem diferentes opiniões com seu sócio quanto aos rumos que a empresa deve seguir  |  **Hobbies, História:**<br> ⦁ Ler. <br> ⦁ Estudar sobre o Mercado Financeiro. <br> ⦁ Investir dinheiro |
+
+|Marcos Ribeiro Souza        | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](https://user-images.githubusercontent.com/103972585/223277379-304d00a6-0701-4b50-bd11-3c9e74e13be2.png)| **Idade:** 22 <br> **Ocupação:**  Encarregado de obras.  | **Aplicativos:** <br> ⦁ Instagram <br> ⦁ WhatsApp
+| **Motivações:** <br> ⦁ Melhores hábitos;  <br> ⦁ Ter uma boa saúde financeira. | **Frustrações:**<br> ⦁ Não conseguir administrar o tempo corretamente;  <br> ⦁ Não conseguir fazer algo por falta de tempo. |  **Hobbies, História:**<br> ⦁ Jogar futebol; <br> ⦁ Ler livros; <br> ⦁ Jogar videogame;  <br> ⦁ Sair com a família;  |
+
+
+|Ana Paula Santana         | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](https://user-images.githubusercontent.com/103972585/223277974-b089e89e-6368-4f91-a28d-2caf8f59cead.png)| **Idade:** 21 <br> **Ocupação:**  Estudante universitária, estagiária no setor financeiro de uma empresa.  | **Aplicativos:** <br> ⦁ Instagram <br> ⦁ WhatsApp <br> ⦁ Linkedin 
+| **Motivações:** <br> ⦁ Criar novos hábitos e melhorar a qualidade de vida;  <br> ⦁ Ter bons resultados no trabalho, faculdade e projetos. | **Frustrações:**<br> ⦁ Muitas tarefas e dificuldade para organizar e criar um cronograma. <br> ⦁ Não conseguir organizar-se para ter tempo de praticar novo hábito ou passar tempo com a família e amigos. |  **Hobbies, História:**<br> ⦁ Jogar videogames;  <br> ⦁ Ler livros; <br> ⦁ Assistir filmes/séries;   <br> ⦁ Sair com amigos e família;  |
+
+
 
 
 

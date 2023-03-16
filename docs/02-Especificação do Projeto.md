@@ -100,8 +100,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deve apresentar na página principal uma dinâmica que permite verificar o quão aderente as metas da pessoa está no mês.  | ALTA | 
+|RF-002| O aplicativo deverá permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.    | Alta |
+|RF-003| O aplicativo deve apresentar na página principal uma aba “inserir um novo objetivo”. | Alta |
+|RF-004| O aplicativo deverá apresentar uma opção para marcar a atividade como feita.    | Alta |
+|RF-005| O aplicativo não deve permitir que o usuário selecione uma data inválida.   | Alta |
+|RF-006| O aplicativo deve mostrar se o usuário está ou não monitorando algum objetivo   | MÉDIA |
+|RF-007| O aplicativo deve permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer   | Alta |
+|RF-008| O aplicativo deve possibilitar ao usuário visualizar as atividades a nível diário, semanal e mensal.    | Baixa |
+|RF-009| O aplicativo deve possibilitar ao usuário colocar um horário para finalizar determinada atividade.    | MÉDIA |
 
 ### Requisitos não Funcionais
 

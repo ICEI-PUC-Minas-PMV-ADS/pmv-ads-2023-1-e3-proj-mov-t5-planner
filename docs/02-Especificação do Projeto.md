@@ -100,22 +100,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O aplicativo deve apresentar na página principal uma dinâmica que permite verificar o quão aderente as metas da pessoa está no mês.  | ALTA | 
-|RF-002| O aplicativo deverá permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.    | Alta |
-|RF-003| O aplicativo deve apresentar na página principal uma aba “inserir um novo objetivo”. | Alta |
-|RF-004| O aplicativo deverá apresentar uma opção para marcar a atividade como feita.    | Alta |
-|RF-005| O aplicativo não deve permitir que o usuário selecione uma data inválida.   | Alta |
-|RF-006| O aplicativo deve mostrar se o usuário está ou não monitorando algum objetivo   | MÉDIA |
-|RF-007| O aplicativo deve permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer   | Alta |
-|RF-008| O aplicativo deve possibilitar ao usuário visualizar as atividades a nível diário, semanal e mensal.    | Baixa |
-|RF-009| O aplicativo deve possibilitar ao usuário colocar um horário para finalizar determinada atividade.    | MÉDIA |
+|RF-01| O aplicativo deve apresentar na página principal uma dinâmica que permite verificar o quão aderente as metas da pessoa está no mês.  | ALTA | 
+|RF-02| O aplicativo deverá permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.    | Alta |
+|RF-03| O aplicativo deve apresentar na página principal uma aba “inserir um novo objetivo”. | Alta |
+|RF-04| O aplicativo deverá apresentar uma opção para marcar a atividade como feita.    | Alta |
+|RF-05| O aplicativo não deve permitir que o usuário selecione uma data inválida.   | Alta |
+|RF-06| O aplicativo deve mostrar se o usuário está ou não monitorando algum objetivo   | MÉDIA |
+|RF-07| O aplicativo deve permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer   | Alta |
+|RF-08| O aplicativo deve possibilitar ao usuário visualizar as atividades a nível diário, semanal e mensal.    | Baixa |
+|RF-09| O aplicativo deve possibilitar ao usuário colocar um horário para finalizar determinada atividade.    | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01| O aplicativo deve ser publicado em um ambiente acessível publicamente na Internet (GitHub Pages, Vercel, ou similar)  | Alta | 
+|RNF-02| O aplicativo deverá ser responsivo permitindo a visualização em um celular de forma adequada |  Alta | 
+|RNF-03| O aplicativo deve ter bom nível de contraste entre os elementos da tela em conformidade | Média | 
+|RNF-04| O aplicativo deve ser compatível com os principais sistemas operacionais do mercado (IOS e Android) |  Alta |
+|RNF-05| O aplicativo deve funcionar 24 horas por dia em todos os dias da semana  | Alta | 
+|RNF-06| O aplicativo deve se manter funcionando mesmo que haja 100.000 usuários ativos  |  Média |
+|RNF-07| O aplicativo deve ser intuitivo e de fácil aprendizagem.  | Alta | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 

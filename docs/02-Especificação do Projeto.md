@@ -83,7 +83,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
-## Indicadores de Desempenho
+## Indicadores de Desempenho (Em andamento)
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
@@ -123,20 +123,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-07| O aplicativo deve ser intuitivo e de fácil aprendizagem.  | Alta | 
 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -144,40 +130,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 27/06/2023. |
+|02| O aplicativo deve se restringir às tecnologias disponíveis para desenvolvimento mobile |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+![image](https://user-images.githubusercontent.com/103972585/226764037-8aa7f854-157a-4538-823d-e55d0db58a00.png)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
-
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+![image](https://user-images.githubusercontent.com/103972585/226764125-b027df49-fc44-4cdc-908a-5c593f79e5c4.png)
 
 
 # Gerenciamento de Projeto
@@ -186,22 +152,51 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+![image](https://user-images.githubusercontent.com/103972585/226764262-7bdfd919-f606-477d-b752-08111ba4e9d4.png)
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+### Grafico de Gantt
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+![image](https://user-images.githubusercontent.com/103972585/226764295-7aa11ac9-9282-4a88-a852-2178772a7ad6.png)
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+![image](https://user-images.githubusercontent.com/103972585/226764399-fd22113d-dada-4b1d-893f-2c73045c3a2a.png)
 
-![Simple Project Timeline](img/02-project-timeline.png)
+### Trello
+
+![image](https://user-images.githubusercontent.com/103972585/226764465-55ac9297-dbef-4c6d-83ec-97ac66a12506.png)
+
+Etiquetas: Apresenta o tipo daquele produto no desenvolvimento 
+Elas são dividias (até o momento 03/03/23) em: 
+
+* Documentação 
+* Desenvolvimento  
+* Desenvolvimento RNF 
+* Arquitetura 
+* Teste 
+
+Cor: As cores é para a equipe de desenvolvimento saber qual é o nível do atributo Prioridade 
+
+Elas são dividas em: 
+* Vermelho: Prioridade Alta 
+* Amarelo: Prioridade Média 
+* Azul: Prioridade Baixa 
+
+### Sprint - Etapa 1
+A Sprint dessa etapa se consiste de produtos que foram movidos do Quadro “Backlog” para o Quadro “Sprint – Etapa 1
+
+![image](https://user-images.githubusercontent.com/103972585/226764822-1d0bbcc5-1fae-48d9-8285-35129d35a0b8.png)
+
+
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+* Recursos Humanos: Considerando um grupo de desenvolvedores trabalhando por 1h por dia, 5 dias por semana até a conclusão do projeto (23/06/23 -> 74 dias úteis). Cada um com o custo de R$30,00/hora. Obs: Todos os papéis Do Scrum estão dentro desse time. 
+* Os custos de hardware são aqueles de depreciação, manutenção dos equipamentos dos colaboradores, bem como o custo de uma máquina virtual para armazenamento de arquivos e realização de testes. 
+* Os custos de rede são aqueles necessários para realização do projeto, não levando em conta a manutenção do mesmo após entrega do produto, que será por conta do cliente que o comercializará. 
+* Softwares considerados foram aqueles instalados nas máquinas dos funcionários para realização do projeto 
+* Serviços indiretos considerados foram: água, luz, internet, telefone. Serviços terceirizados diretos não estão previstos. 
 
-![Orçamento](img/02-orcamento.png)
+![image](https://user-images.githubusercontent.com/103972585/226764930-4af8d025-413d-4880-81e0-120564ec4ea0.png)
+

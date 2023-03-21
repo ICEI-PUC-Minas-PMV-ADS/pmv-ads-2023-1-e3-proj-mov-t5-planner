@@ -1,46 +1,35 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+De acordo com Rodrigo Gil Espinha (sócio-diretor da Euax) o planejamento do dia fornece metas e objetivos para o seu dia de trabalho, funcionando como um norte para o que você precisa executar e assim evitando o desperdício de tempo, a ociosidade e, é claro, a improdutividade. 
+
+Rodrigo fortalece a necessidade de criar um planejamento com as tarefas a serem executadas durante o dia para não gerar esquecimento e/ou improdutividade. Pode-se observar que pessoas que tem suas atividades organizadas e adequadas com o seu planejamento, conseguem alcançar melhor suas metas e objetivos de vida. 
+
+Algumas escolas, que já realizaram alguns estudos que fortalecem o pensamento supracitado, afirmam que ter metas diárias é essencial para quem deseja concretizar suas tarefas e se tornar mais produtivo. Alguns pontos ressaltados de benefícios são: aumento da produtividade, maior organização, melhor utilização do tempo, sucesso profissional. 
+
+Um estudo divulgado pelo Science Alert Estudos encontrou uma ligação entre procrastinação e problemas de saúde. Pode-se destacar o segundo trecho: “Os resultados mostraram que níveis mais altos de procrastinação foram associados a sintomas um pouco mais altos de depressão, ansiedade e estresse nove meses depois. Alunos com níveis mais altos de procrastinação também eram mais propensos a relatar dores incapacitantes nos ombros ou braços (ou ambos), pior qualidade do sono, mais solidão e mais dificuldades financeiras.” 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Algumas pessoas têm planos a médio e longo prazo, mas diariamente não sabem como se organizar de forma que elas avancem nesses objetivos. O problema que se busca resolver com este projeto justamente esse, a dificuldade de concentrar e organizar seus objetivos e metas a serem alcançadas em um mesmo lugar. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo social deste trabalho é a criação de um aplicativo que possibilite ao usuário traçar todas as metas e a serem alcançadas, assim como seu acompanhamento diário, a fim de auxiliar as pessoas a atingirem seus planos e sonhos. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
+Como objetivos específicos, pode-se ressaltar: 
+
+⦁	Fornecer funcionalidades que permitem inserir as metas diárias; 
+
+⦁	Fornecer funcionalidades que permitem acompanhar se as metas foram completas. 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo a TechMundo , as pessoas em média passam 12 horas e 8 minutos por semana assistindo vídeos no YouTube e 11 horas e 19 minutos se dedicando às redes sociais o que prejudica a realização de atividades diárias as quais seriam pequenos passos para se atingir um objetivo específico.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A fim de auxiliar a população a evitar problemas de saúde que podem ser desenvolvidos com a procrastinação e seus impactos sociais. Se propõe a criação e um aplicativo mobile que auxilie no registo e monitoramento de produtividade para alcançar os objetivos de curto, médio e longo prazo, ou ajude na criação de um novo hábito e forma de seguir a vida.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A quantidade de pessoas a serem beneficiadas pelas soluções a serem desenvolvidas são inúmeras, mas o foco deste trabalho está no público que possuem a rotina mais corrida e buscam uma forma rápida, ágil e funcional para marcar suas atividades diárias, como também consultá-las e saber quais já foram feitas e as que ainda precisam ser realizadas. Dessa forma, objetiva-se garantir que sejam beneficiados desde estudante com rotinas de estudos a empresários e suas agendas de negócios. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desta forma, baseado na pesquisa de usabilidade do aplicativo, conclui-se que o público-alvo seja pessoas entre 18 e 60 anos, já que geralmente são pessoas que possuem muitas tarefas em sua rotina diária e/ou se veem presos em um ciclo de procrastinação. Esses possíveis usuários poderão utilizar a ferramenta para determinar, controlar e acompanhar metas e objetivos, além de tarefas do dia-a-dia em relação a: trabalho, família, casa, alimentação, academia, etc. E se ainda tiver mais algum objetivo a conquistar como, mudar de emprego, conseguir uma nova certificação, seja possível acompanhar os pequenos progressos diários em busca de alcançar esse novo objetivo

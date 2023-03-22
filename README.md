@@ -1,4 +1,4 @@
-# PLANNER
+<h1 align="center"> PLANNER </h1>
 
 `Análise e Desenvolvimento de Software`
 

@@ -1,4 +1,4 @@
-# Especificações do Projeto
+# 👷Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
@@ -6,7 +6,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
+## 👩 Personas
 
 |Maria de Fátima     | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
@@ -38,7 +38,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 
 
-## Histórias de Usuários
+## 📚 Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
@@ -92,7 +92,7 @@ Usar o seguinte modelo:
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
-## Requisitos
+## 🎯 Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
@@ -136,17 +136,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 
-## Diagrama de Casos de Uso
+## 📈 Diagrama de Casos de Uso
 
 ![image](https://user-images.githubusercontent.com/103972585/226764037-8aa7f854-157a-4538-823d-e55d0db58a00.png)
 
 
-# Matriz de Rastreabilidade
+# 🧑‍🏫 Matriz de Rastreabilidade
 
 ![image](https://user-images.githubusercontent.com/103972585/226764125-b027df49-fc44-4cdc-908a-5c593f79e5c4.png)
 
 
-# Gerenciamento de Projeto
+# 📊 Gerenciamento de Projeto
 
 De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
 
@@ -190,7 +190,7 @@ A Sprint dessa etapa se consiste de produtos que foram movidos do Quadro “Back
 
 
 
-## Gestão de Orçamento
+## 💵 Gestão de Orçamento
 
 * Recursos Humanos: Considerando um grupo de desenvolvedores trabalhando por 1h por dia, 5 dias por semana até a conclusão do projeto (23/06/23 -> 74 dias úteis). Cada um com o custo de R$30,00/hora. Obs: Todos os papéis Do Scrum estão dentro desse time. 
 * Os custos de hardware são aqueles de depreciação, manutenção dos equipamentos dos colaboradores, bem como o custo de uma máquina virtual para armazenamento de arquivos e realização de testes. 

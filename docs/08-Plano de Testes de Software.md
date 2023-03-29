@@ -19,14 +19,14 @@
 
 | **Caso de Teste** 	| **CT-03 – O aplicativo deve apresentar na página principal uma aba “inserir um novo objetivo”.** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	|**RF-003 -	O aplicativo deve apresentar na página principal uma aba “inserir um novo objetivo”.. |
+|	Requisito Associado 	|**RF-003 -	O aplicativo deve apresentar na página principal uma aba “inserir um novo objetivo”.** |
 | Objetivo do Teste 	| Verificar se o usuário consegue visualizar e acessar a opção de "inserir um novo objetivo. |
 | Passos 	| - Acessar a aplicação móvel <br> - Ná página principal visualizar o botão Inserir novo objetivo.<br> - Inserir detalhes sobre o novo objetivo. <br> |
 |Critério de Êxito | - O usuário inseriu um novo objetivo com sucesso. |
 
 | **Caso de Teste** 	| **CT-04 – O aplicativo deverá apresentar uma opção para marcar a atividade como feita.** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	|** RF-004 -	O aplicativo deverá apresentar uma opção para marcar a atividade como feita.** |
+|	Requisito Associado 	|**RF-004 -	O aplicativo deverá apresentar uma opção para marcar a atividade como feita.** |
 | Objetivo do Teste 	| Verificar se o usuário consegue marcar a atividade como feita.. |
 | Passos 	| - Acessar a aplicação móvel <br> - Acessar suas atividades. <br> - Marcar a conclusão da atividae proposta. <br> |
 |Critério de Êxito | - O usuário concluiu seu objetivo diário com sucesso. |

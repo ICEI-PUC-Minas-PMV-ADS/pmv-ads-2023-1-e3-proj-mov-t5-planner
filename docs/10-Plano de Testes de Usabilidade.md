@@ -15,21 +15,24 @@ Ao final, será feito um comparativo dos resultados de cada usuário participant
 | **Caso de Teste** 	| **CTU-01 – Compatibilidade** 	|
 |:---:	|:---:	|
 | **Objetivo do Teste** 	| Verificar se o aplicativo é igualmente compatível com os principais sistemas operacionais do mercado (IOS e Android) 	|
-| **Ações necessárias** 	| Baixar o aplicativo;<br> Entrar no aplicativo;<br> Testar funções ;<br> Navegar pelo fluxo do site seguindo os passos orientados na tela. 	|
-
+| **Ações necessárias** 	| Baixar o aplicativo;<br> Entrar no aplicativo;<br> Testar funções ;<br> Navegar pelo fluxo do site seguindo os passos orientados na tela. |
+|Critério de Êxito | - O app não restringiu nenhum acesso as funcionalidades. |
 
 | **Caso de Teste** 	| **CTU-02 – Monitoração** 	|
 |:---:	|:---:	|
 | **Objetivo do Teste** 	| Verificar se o aplicativo mostra se o usuário está ou não monitorando algum objetivo	|
-| **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Testar histórico de objetivos ;<br> Navegar pelo fluxo do site seguindo os passos orientados na tela. 	|
+| **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Testar histórico de objetivos; 	|
+|Critério de Êxito | - O usuário verificou seus objetivos com sucesso. |
 
 | **Caso de Teste** 	| **CTU-03 – Datas dos objetivos** 	|
 |:---:	|:---:	|
 | **Objetivo do Teste** 	| Verificar se o aplicativo discerne as datas dos objetivos	|
-| **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Verificar data dos objetivos ;<br> Navegar pelo fluxo do site seguindo os passos orientados na tela. 	|
+| **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Verificar data dos objetivos; 	|
+|Critério de Êxito | - O usuário verificou a data de conclusão de seus objetivos com sucesso. |
 
 | **Caso de Teste** 	| **CTU-03 – Dias inválidos** 	|
 |:---:	|:---:	|
 | **Objetivo do Teste** 	| Verificar se o aplicativo não deve permiti que o usuário selecione uma data inválida.	|
-| **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Inserir novo objetivo ;<br> Navegar pelo fluxo do site seguindo os passos orientados na tela;<br> Selecionar uma data inválidada para verificar a resposta do sistema. 	|
+| **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Inserir novo objetivo ;<br> Selecionar uma data inválidada para verificar a resposta do sistema. 	|
+|Critério de Êxito | - O usuário não conseguiu marcar uma data inválida para seu novo objetivo. |
 

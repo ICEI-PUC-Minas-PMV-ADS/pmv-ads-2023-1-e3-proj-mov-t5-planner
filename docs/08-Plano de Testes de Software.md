@@ -31,7 +31,7 @@
 | Passos 	| - Acessar a aplicação móvel <br> - Acessar suas atividades. <br> - Marcar a conclusão da atividae proposta. <br> |
 |Critério de Êxito | - O usuário concluiu seu objetivo diário com sucesso. |
 
-| **Caso de Teste** 	| **CT-04 – Permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer.** 	|
+| **Caso de Teste** 	| **CT-05 – Permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer.** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| **RF-07	O aplicativo deve permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer.** |
 | Objetivo do Teste 	| Verificar se o usuário consegue definir a data em que atividade será feita.. |

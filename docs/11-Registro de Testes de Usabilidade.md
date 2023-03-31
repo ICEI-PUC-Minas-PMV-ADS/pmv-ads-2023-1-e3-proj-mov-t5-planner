@@ -1,21 +1,17 @@
 # Registro de Testes de Usabilidade
+ análise do resultado do teste de usabilidade à distância deve ser igual ao de um teste presencial, para registro uma tabela conforme abaixo:
 
-| Testes 	| **CTU-01 – Compatibilidade** |
-|:---:	|:---:	|
-| Critérios de êxito | O aplicativo ser compativél com os principais sistemas operacionais do mercado (IOS e Android). |
-| ~ link da evidência em vídeo ou imagem aqui ~ |
+Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entregues não estão com todas as funcionalidades funcionando.
 
-| Testes 	| **CTU-02 – Monitoração** |
-|:---:	|:---:	|
-| Critérios de êxito | O aplicativo mostrar se o usuário está ou não monitorando algum objetivo. |
-| ~ link da evidência em vídeo ou imagem aqui ~ |
+**CTU-01 – CTU-01 – Compatibilidade**
+| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
+| --- 	| --- 	| --- | ---  | --- | --- | --- |
+| Maria de Fátima	| CTU-01 	| 3MIN | 1 | 2 | 0 | OK |
+| Gabriel Almeida     | CTU-01 	| 3MIN | 12 | 3 | 0 | OK |
+| Marcelo Gonçalves     	| CTU-01	| 2MIN | 11 | 0 | 0 | OK |
+| Marcos Ribeiro Souza   	| CTU-01 	| 2MIN | 9  | 0 | 0 | OK |
+| Ana Paula Santana       | CTU-01 | 3MIN | 8 | 0 | 0 | OK |
 
-| Testes 	| **CTU-03 – Datas dos objetivos**  |
-|:---:	|:---:	|
-| Critérios de êxito | o aplicativo discernir e evidenciar as datas dos objetivos. |
-| ~ link da evidência em vídeo ou imagem aqui ~ |
 
-| Testes 	| **CTU-03 – Dias inválidos** |
-|:---:	|:---:	|
-| Critérios de êxito | O aplicativo não permitir que o usuário selecione uma data inválida. |
-| ~ link da evidência em vídeo ou imagem aqui ~ |
+
+Também foi adicionado mensagens de validação, de erro, obrigatoriedade de informações e sucesso de registro dos dados para melhoras a experiencia do usuário e facilitar o uso do app. 

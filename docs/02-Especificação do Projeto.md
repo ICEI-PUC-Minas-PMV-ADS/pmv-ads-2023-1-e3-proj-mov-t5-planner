@@ -83,14 +83,16 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
-## Indicadores de Desempenho (Em andamento)
+## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+|#|Indicador|Objetivos|Descrição|Calculo|Fonte|Perspectiva|
+|--|------|--------|--------|---------|--------|-----------|
+|1|Número de downloads|Acompanhar a taxa de crescimento do aplicativo|Avaliar a taxa de downloads realizados|Número mensal de download da aplicaçao ao longo do tempo|Estatisticas fornecidas pela Playstore/AppleStore|Crescimento do app|
+|2|Avaliação na PlayStore/AppleStore|Acompanhar o feedback dos usuarios|Medir a média das avaliações dadas pelo usuários|Nota média dada pelos usuarios para a aplicação ao longo do tempo|Estatísticas fornecidas pela Playstore/AppleStore|Qualidade do produto| 
+|3|Número de desinstalações|Avaliar o que pode ser mudado para prevenir outras desinstalações do aplicativo|Entender oque levou o usuario a desintalar o app|Numero de usuarios que desinstalaram o aplicativo ao longo do tempo|Estatísticas fornecidas pela Playstore/AppleStore|Melhoria continua|
+|4|Funcionamento em multiplos sistemas operacionais|Verificar se o aplicativo funciona em sistemas com características difententes sem ocorrer alteração da qualidade e de suas funcionalidades|Verificar reclamaçoes de usuários|Reclamações|Banco de dados da aplicação|Monitorar a adesão dos usuários ao uso da plataforma|
+|5|Número de reclamações sobre a qualidade do produto recebido|Verificar se a curadoria estar prestando o serviços corretamente|Avaliar os serviços prestados pela curadoria|Número de reclamações encaminhadas a empresa relativas a qualidade do produto recebido|Reclamações prestadas à ouvidoria da empresa|avaliar a melhorar a qualidade do produto e do serviço prestado|
 
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## 🎯 Requisitos
 

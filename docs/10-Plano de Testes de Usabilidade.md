@@ -32,7 +32,7 @@ Ao final, será feito um comparativo dos resultados de cada usuário participant
 
 | **Caso de Teste** 	| **CTU-03 – Dias inválidos** 	|
 |:---:	|:---:	|
-| **Objetivo do Teste** 	| Verificar se o aplicativo não deve permiti que o usuário selecione uma data inválida.	|
+| **Objetivo do Teste** 	| Verificar se o aplicativo não deve permitir que o usuário selecione uma data inválida.	|
 | **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Inserir novo objetivo ;<br> Selecionar uma data inválidada para verificar a resposta do sistema. 	|
 |Critério de Êxito | - O usuário não conseguiu marcar uma data inválida para seu novo objetivo. |
 

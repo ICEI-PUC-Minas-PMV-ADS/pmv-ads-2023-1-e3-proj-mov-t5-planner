@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
-O objetivo deste relatório é indicar se a aplicação AutoApp atende aos requisitos previamente propostos e sugerir possíveis pontos de correção, nesta etapa os testes foram efetuados considerando a tela da aplicação 
+O objetivo deste relatório é indicar se a aplicação Planner atende aos requisitos previamente propostos e sugerir possíveis pontos de correção, nesta etapa os testes foram efetuados considerando a tela da aplicação 
 
 
 | Testes 	| **CT-01 - Apresentar na página principal uma dinâmica que permite verificar o quão aderente as metas da pessoa está no mês.** |

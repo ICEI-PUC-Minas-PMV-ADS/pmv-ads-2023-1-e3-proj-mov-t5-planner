@@ -16,7 +16,7 @@
 | Testes 	| **CT-03 – Apresentar na página principal uma aba “inserir um novo objetivo”.** |
 |:---:	|:---:	| 
 | Critérios de êxito | Usuário conseguir localizar o botão "Inserir um novo objetivo". |
-| ~ link da evidência em vídeo ou imagem ~ <img width="200px" src="https://user-images.githubusercontent.com/103972585/228393668-a05cc74e-a5b0-4096-8f01-dda67c617766.gif"/> |
+| ~ link da evidência em vídeo ou imagem ~  | <img width="200px" src="https://user-images.githubusercontent.com/103972585/228393668-a05cc74e-a5b0-4096-8f01-dda67c617766.gif"/>
 
 
 | Testes 	| **CT-04 – Apresentar uma opção para marcar a atividade como feita.** |

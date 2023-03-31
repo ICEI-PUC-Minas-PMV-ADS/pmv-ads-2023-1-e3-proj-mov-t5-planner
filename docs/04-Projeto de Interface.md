@@ -7,9 +7,7 @@ O projeto de interface uma visão das telas do sistema e protótipo com as funci
 
 O diagrama mostra o fluxo de interação do usuário com o sistema.
 
-
 ![Planner Mobile](https://user-images.githubusercontent.com/103972585/227376588-e9035ace-820c-4eff-b934-8870f9895099.png)
-
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
@@ -18,7 +16,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+<img width="500px" src="https://user-images.githubusercontent.com/103972585/229236920-ef8e8bfc-71f4-4bed-b075-c40d6cd1d183.png"/>
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  

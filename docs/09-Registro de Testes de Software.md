@@ -4,7 +4,7 @@
 | Testes 	| **CT-01 - Apresentar na página principal uma dinâmica que permite verificar o quão aderente as metas da pessoa está no mês.** |
 |:---:	|:---:	| 
 | Critérios de êxito | Usuário conseguir verificar suas metas concluidas no mes. |
-| ~ link da evidência em vídeo ou imagem ~ <img width="200px" src="https://user-images.githubusercontent.com/103972585/228393668-a05cc74e-a5b0-4096-8f01-dda67c617766.gif"/> |
+| ~ link da evidência em vídeo ou imagem ~ |  <img width="200px" src="https://user-images.githubusercontent.com/103972585/228393668-a05cc74e-a5b0-4096-8f01-dda67c617766.gif"/>
 
 
 | Testes 	| **CT-02 – Permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.** |

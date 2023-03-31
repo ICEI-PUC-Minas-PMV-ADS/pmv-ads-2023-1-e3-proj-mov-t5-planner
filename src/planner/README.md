@@ -36,6 +36,7 @@ npx expo start --clear
 
 npx expo start --tunnel --clear
 ```
+---
 
 ### ⚙️ Configurações Fonts
 📄 [Google Fonts](https://fonts.google.com/)
@@ -73,6 +74,8 @@ export default function App() {
   });
 }
 ```
+
+---
 
 ### ⚙️ Configurações NativiWind
 📄 [NativeWind](https://www.nativewind.dev/quick-starts/expo)
@@ -142,10 +145,95 @@ module.exports = function(api) {
 ```bash
 /// <reference types="nativewind/types" />
 ```
+---
 
 ### ⚙️ IntelliSense Tailwind
 ⚠️📢 Para facilitar uma vida, instale a extensão do IntelliSense Tailwind no seu VS Code
 ![extensçao vs code](https://user-images.githubusercontent.com/103972585/229003591-1feb3133-f997-4c1d-b2dc-0724cc18f027.png)
 
+---
+
+### ⚙️ SVG
+Por padrão, o React-Native não suporta exibição de SVG, mas tem como usar. É só add uma biblioteca.
+📄[Documentação Expo SVG](https://docs.expo.dev/versions/v48.0.0/sdk/svg/)
+
+⚠️📢 Por garantia, pare a aplicação.
+```bash
+npx expo install react-native-svg
+```
+
+⚠️🚨 Contudo, entretanto, porem e todavia… A gente precisa de uma segunda biblioteca para renderizar o SVG.
+[Repositório GitHub](https://github.com/kristerkari/react-native-svg-transformer)
+
+Depois de instalar o ``react-native-svg``, instale essa segunda biblioteca como uma dependência de desenvolvimento. 
+Código a seguir:
+```bash
+npm i react-native-svg-transformer --save-dev
+```
+⚠️📢 Depois de instalado, crie o seguinte arquivo de configuração: ``metro.config.js``
+→ Cria esse trem fora de qualquer pasta
 
 
+⚠️📢 Depois cole o seguinte código dentro desse arquivo:
+```bash
+const { getDefaultConfig } = require("expo/metro-config");
+
+module.exports = (() => {
+  const config = getDefaultConfig(__dirname);
+
+  const { transformer, resolver } = config;
+
+  config.transformer = {
+    ...transformer,
+    babelTransformerPath: require.resolve("react-native-svg-transformer"),
+  };
+  config.resolver = {
+    ...resolver,
+    assetExts: resolver.assetExts.filter((ext) => ext !== "svg"),
+    sourceExts: [...resolver.sourceExts, "svg"],
+  };
+
+  return config;
+})();
+```
+
+⚠️📢 Para tirar o erro do SVG, na pasta @types, crie o seguinte arquivo: svg.d.ts, e cola o seguinte código dentro desse arquivo.
+```bash
+declare module "*.svg" {
+  import React from 'react';
+  import { SvgProps } from "react-native-svg";
+  const content: React.FC<SvgProps>;
+  export default content;
+}
+```
+
+---
+### 🔆 Vector Icons
+📢 Biblioteca de icones do próprio Expo
+```bash
+import {} from '@expo/vector-icons'
+```
+
+📢 Guia:
+[Repositório Icons React Native](https://oblador.github.io/react-native-vector-icons/)
+
+---
+
+### ⚙️ DayJS
+[TypeScript Day.js](https://day.js.org/docs/en/installation/typescript)
+
+Manipulação de datas
+→ Como ela é uma biblioteca puramente JavaScript, vc não precisa parar a aplicação.
+```bash
+npm install dayjs
+```
+
+⚠️📢 Para organizar as datas no formato pt-br, criei uma basta ‘lib’ dentro do src 
+→ Dentro dessa pasta eu crio um arquivo ``dayjs.ts`` e faço a importação
+
+```bash
+import dayjs from "dayjs";
+import 'dayjs/locale/pt-br';
+
+dayjs.locale('pt-br');
+```

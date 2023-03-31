@@ -30,7 +30,7 @@ Ao final, será feito um comparativo dos resultados de cada usuário participant
 | **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Verificar data dos objetivos; 	|
 |Critério de Êxito | - O usuário verificou a data de conclusão de seus objetivos com sucesso. |
 
-| **Caso de Teste** 	| **CTU-03 – Dias inválidos** 	|
+| **Caso de Teste** 	| **CTU-04 – Dias inválidos** 	|
 |:---:	|:---:	|
 | **Objetivo do Teste** 	| Verificar se o aplicativo não deve permitir que o usuário selecione uma data inválida.	|
 | **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Inserir novo objetivo ;<br> Selecionar uma data inválidada para verificar a resposta do sistema. 	|

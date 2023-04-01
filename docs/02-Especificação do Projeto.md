@@ -75,8 +75,9 @@ Acredita-se que para melhorar a experiencia do usuário é possível realizar a 
 
 Segue a apresentação do BPMN referente a alteração do processo de exposição das datas na tela inicial de acordo com o mes selecionado.
 
-![Processo 1](img/02-bpmn-proc1.png)
+![BPMN](https://user-images.githubusercontent.com/103972585/229315581-5e97c19c-d7ad-400d-8c2b-320e2ff85d2e.jpeg)
 
+  
 
 ## Indicadores de Desempenho
 

@@ -9,14 +9,10 @@ O diagrama mostra o fluxo de interação do usuário com o sistema.
 
 ![Planner Mobile](https://user-images.githubusercontent.com/103972585/227376588-e9035ace-820c-4eff-b934-8870f9895099.png)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
 
-O Wireframes representa um prototipó do que será desenvolvido em termos de tela de apresentação ao usuário.
+O Wireframes representa um prototipó do que será desenvolvido em termos de tela de apresentação ao usuário e suas respectivas funcionalidades.
 
 <img width="500px" src="https://user-images.githubusercontent.com/103972585/229236920-ef8e8bfc-71f4-4bed-b075-c40d6cd1d183.png"/>
 

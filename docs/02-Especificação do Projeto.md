@@ -73,7 +73,7 @@ Acredita-se que para melhorar a experiencia do usuário é possível realizar a 
 
 ### Processo 1 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Segue a apresentação do BPMN referente a alteração do processo de exposição das datas na tela inicial de acordo com o mes selecionado.
 
 ![Processo 1](img/02-bpmn-proc1.png)
 

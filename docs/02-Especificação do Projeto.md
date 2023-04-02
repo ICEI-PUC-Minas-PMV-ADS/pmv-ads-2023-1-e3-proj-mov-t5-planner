@@ -162,8 +162,9 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 ![image](https://user-images.githubusercontent.com/103972585/226764399-fd22113d-dada-4b1d-893f-2c73045c3a2a.png)
 
 ### Trello
+#### Backlog
+![Backlog](https://user-images.githubusercontent.com/103972585/226764465-55ac9297-dbef-4c6d-83ec-97ac66a12506.png)
 
-![image](https://user-images.githubusercontent.com/103972585/226764465-55ac9297-dbef-4c6d-83ec-97ac66a12506.png)
 
 Etiquetas: Apresenta o tipo daquele produto no desenvolvimento 
 Elas são dividias (até o momento 03/03/23) em: 
@@ -181,11 +182,13 @@ Elas são dividas em:
 * Amarelo: Prioridade Média 
 * Azul: Prioridade Baixa 
 
-### Sprint - Etapa 1
+#### Sprint - Etapa 1
 A Sprint dessa etapa se consiste de produtos que foram movidos do Quadro “Backlog” para o Quadro “Sprint – Etapa 1
 
-![image](https://user-images.githubusercontent.com/103972585/226764822-1d0bbcc5-1fae-48d9-8285-35129d35a0b8.png)
+![Sprint 1](https://user-images.githubusercontent.com/103972585/226764822-1d0bbcc5-1fae-48d9-8285-35129d35a0b8.png)
 
+#### Sprint - Etapa 2
+![Sprint 2](https://user-images.githubusercontent.com/103972585/229377625-b8aee3f9-c8a0-49e6-b383-a011411f70ee.png)
 
 
 ## 💵 Gestão de Orçamento

@@ -11,7 +11,6 @@ export function New(){
                 <Text className="text-white mt-6 font-extrabold text-3xl">
                     Criar hábito
                 </Text>
-
                 <Text className="text-white mt-6 font-semibold text-base">
                     Qual seu comprometimento?
                 </Text>

@@ -12,7 +12,7 @@ O objetivo deste relatório é indicar se a aplicação Planner atende aos requi
 | Testes 	| **CT-02 – Permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.** |
 |:---:	|:---:	| 
 | Critérios de êxito | Usuário conseguir selecionar o dia para realizar suas tarefas |
-| ~ link da evidência em vídeo ou imagem ~ |
+| ~ link da evidência em vídeo ou imagem ~ |  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/acompanhamento.jpeg"/>
 | Comentário | Entrega realizada com êxito  |
 
 

@@ -7,7 +7,7 @@ O objetivo deste relatório é indicar se a aplicação Planner atende aos requi
 |:---:	|:---:	| 
 | Critérios de êxito | Usuário conseguir verificar suas metas concluidas no mes. |
 | ~ link da evidência em vídeo ou imagem ~ |  <img width="200px" src="https://user-images.githubusercontent.com/103972585/228393668-a05cc74e-a5b0-4096-8f01-dda67c617766.gif"/>
-
+| Comentário | O grupo ainda vê que é necessário fazer com que os quadros da tela inicial se coloram de acordo com a aderencia  |
 
 | Testes 	| **CT-02 – Permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.** |
 |:---:	|:---:	| 

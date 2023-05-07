@@ -29,5 +29,5 @@ O objetivo deste relatório é indicar se a aplicação Planner atende aos requi
 
 | Testes 	| **CT-05 – Permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer.** |
 |:---:	|:---:	| 
-| Critérios de êxito | Usuário conseguir escolher os dias em que seus objetivos/tarefas/hábitos |
+| Critérios de êxito | Usuário conseguir escolher os dias em que seus objetivos/tarefas/hábitos - TAREFA EM DESENVOLVIMENTO |
 | ~ link da evidência em vídeo ou imagem ~ |

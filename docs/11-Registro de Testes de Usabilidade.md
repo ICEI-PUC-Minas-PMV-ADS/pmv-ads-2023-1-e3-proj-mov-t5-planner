@@ -1,5 +1,5 @@
 # Registro de Testes de Usabilidade
- análise do resultado do teste de usabilidade à distância deve ser igual ao de um teste presencial, para registro uma tabela conforme abaixo:
+ A análise dos resultados do teste de usabilidade à distância deve ser igual ao de um teste presencial, para registro de uma tabela conforme abaixo:
 
 Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entregues não estão com todas as funcionalidades funcionando.
 
@@ -23,7 +23,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Ana Paula Santana    | CTU-01  | 4MIN | 8  | 0 | 0 | OK |
 
 
-**CTU-03 – CTU-03 – atas dos objetivos**
+**CTU-03 – CTU-03 – Atas dos objetivos**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Maria de Fátima	     | CTU-01 	| 6MIN | 11  | 0 | 0 | OK |
@@ -44,4 +44,4 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 
 
 
-Também foi adicionado mensagens de validação, de erro, obrigatoriedade de informações e sucesso de registro dos dados para melhoras a experiencia do usuário e facilitar o uso do app. 
+Também foram adicionadas mensagens de validação, de erro, obrigatoriedade de informações e sucesso de registro dos dados para assim melhorar a experiência do usuário e facilitar o uso do app. 

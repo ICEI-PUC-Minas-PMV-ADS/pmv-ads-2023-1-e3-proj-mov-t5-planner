@@ -25,12 +25,12 @@ O objetivo deste relatório é indicar se a aplicação Planner atende aos requi
 | Testes 	| **CT-04 – Apresentar uma opção para marcar a atividade como feita.** |
 |:---:	|:---:	| 
 | Critérios de êxito | Usuário conseguir marcar sua atividade diária como feita. |
-| ~ link da evidência em vídeo ou imagem ~ |
+| ~ link da evidência em vídeo ou imagem ~ | <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/acompanhamento.jpeg"/>
 | Comentário | Necesssário fazer ficar interativo o botão de concluído, programação em adamento pelo grupo  |
 
 
 | Testes 	| **CT-05 – Permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer.** |
 |:---:	|:---:	| 
 | Critérios de êxito | Usuário conseguir escolher os dias em que seus objetivos/tarefas/hábitos |
-| ~ link da evidência em vídeo ou imagem ~ |
+| ~ link da evidência em vídeo ou imagem ~ | <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/criar%20habito.jpeg"/>
 | Comentário | Entrega realizada com êxito  |

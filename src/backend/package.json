@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^8.2.1",
+    "@prisma/client": "^4.13.0",
+    "dayjs": "^1.11.7",
+    "fastify": "^4.17.0",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@mermaid-js/mermaid-cli": "^10.1.0",
+    "prisma": "^4.13.0",
+    "prisma-erd-generator": "^1.7.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
+  "description": ""
+}

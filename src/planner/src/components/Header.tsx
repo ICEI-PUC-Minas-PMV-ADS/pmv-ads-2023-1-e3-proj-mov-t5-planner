@@ -17,7 +17,7 @@ export function Header(){
                 activeOpacity={0.5}
                 className="flex-row h-11 px-4 border border-teal-500 rounded-lg items-center"
                 onPress={()=> navigate('new')}
-            > 
+            >
                 <Feather 
                     name="plus"
                     color={colors.teal[500]}

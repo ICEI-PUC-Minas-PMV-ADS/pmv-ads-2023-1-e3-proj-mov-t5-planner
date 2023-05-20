@@ -112,4 +112,4 @@ npx expo start --tunnel --clear
 ---
 
 
-🚨⚠️ Caso queira ver a aplicação funcionando com o back-end, acesse a pasta **backend** e instale as depedências lá descritas
+🚨⚠️ Caso queira ver a aplicação funcionando com o back-end, acesse a pasta **backend** e instale as dependências lá descritas

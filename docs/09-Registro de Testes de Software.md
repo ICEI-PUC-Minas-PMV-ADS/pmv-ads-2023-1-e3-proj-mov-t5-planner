@@ -1,17 +1,17 @@
 # Registro de Testes de Software
 
-O objetivo deste relatório é indicar se a aplicação Planner atende aos requisitos previamente propostos e sugerir possíveis pontos de correção, nesta etapa os testes foram efetuados considerando a tela da aplicação 
+O objetivo deste relatório é indicar se a aplicação Planner atende aos requisitos previamente propostos.
 
 
 | Testes 	| **CT-01 - Apresentar na página principal uma dinâmica que permite verificar o quão aderente as metas da pessoa está no mês.** |
 |:---:	|:---:	| 
-| Critérios de êxito | Usuário conseguir verificar suas metas concluidas no mes. |
+| Critérios de êxito | O usuário visualizar os dias que as metas foram concluidas ou não pela intesidade da cor ou ausencia da mesma. |
 | ~ link da evidência em vídeo ou imagem ~ |  <img width="200px" src="https://user-images.githubusercontent.com/103972585/228393668-a05cc74e-a5b0-4096-8f01-dda67c617766.gif"/>
-| Comentário | O grupo ainda vê que é necessário fazer com que os quadros da tela inicial se coloram de acordo com a aderencia  |
+| Comentário | Entrega realizada com êxito  |
 
 | Testes 	| **CT-02 – Permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.** |
 |:---:	|:---:	| 
-| Critérios de êxito | Usuário conseguir selecionar o dia para realizar suas tarefas |
+| Critérios de êxito | Usuário conseguir selecionar o dia e visualizar suas tarefas |
 | ~ link da evidência em vídeo ou imagem ~ |  <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/acompanhamento.jpeg"/>
 | Comentário | Entrega realizada com êxito  |
 
@@ -31,6 +31,6 @@ O objetivo deste relatório é indicar se a aplicação Planner atende aos requi
 
 | Testes 	| **CT-05 – Permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer.** |
 |:---:	|:---:	| 
-| Critérios de êxito | Usuário conseguir escolher os dias em que seus objetivos/tarefas/hábitos |
+| Critérios de êxito | Usuário conseguir escolher os dias em que seus objetivos/tarefas/hábitos precisam ser realizados |
 | ~ link da evidência em vídeo ou imagem ~ | <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/criar%20habito.jpeg"/>
 | Comentário | Entrega realizada com êxito  |

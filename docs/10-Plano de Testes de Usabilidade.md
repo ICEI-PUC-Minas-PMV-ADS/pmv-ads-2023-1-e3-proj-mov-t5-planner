@@ -36,3 +36,9 @@ Ao final, será feito um comparativo dos resultados de cada usuário participant
 | **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Inserir novo objetivo ;<br> Selecionar uma data inválidada para verificar a resposta do sistema. 	|
 |Critério de Êxito | - O usuário não conseguiu marcar uma data inválida para seu novo objetivo. |
 
+| **Caso de Teste** 	| **CTU-05 – Atualização do status do dia** 	|
+|:---:	|:---:	|
+| **Objetivo do Teste** 	| Verificar se o aplicativo permite atualizar o objetivo do dia.	|
+| **Ações necessárias** 	| Baixar o aplicativo;  Entrar no aplicativo;<br> Inserir novo objetivo ;<br> Selecionar um dia com objetivo cadastrado;<br> Modificar o(s) objetivo(s). 	|
+|Critério de Êxito | - O usuário conseguir alterar o(s) objetivo(s) do dia. |
+

@@ -68,6 +68,12 @@ npm i react-native-svg-transformer --save-dev
 ```
 
 ---
+### ⚙️ React Native Reanimated
+```bash
+npx expo install react-native-reanimated
+```
+
+---
 
 ### ⚙️ DayJS
 [TypeScript Day.js](https://day.js.org/docs/en/installation/typescript)

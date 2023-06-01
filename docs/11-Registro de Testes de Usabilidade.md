@@ -51,6 +51,8 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Marcos Ribeiro Souza | CTU-05 	| 6MIN | 7  | 0 | 0 | OK |
 | Ana Paula Santana    | CTU-05  | 4MIN | 11  | 0 | 0 | OK |
 
+![telas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/assets/103226164/9c020493-6387-4adf-b282-b24503450650)
+
 
 
 

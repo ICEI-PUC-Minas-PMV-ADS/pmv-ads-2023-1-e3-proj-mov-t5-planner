@@ -32,5 +32,5 @@ O objetivo deste relatório é indicar se a aplicação Planner atende aos requi
 | Testes 	| **CT-05 – Permitir que o usuário escolha os dias que tal objetivo/tarefa/hábito deve aparecer.** |
 |:---:	|:---:	| 
 | Critérios de êxito | Usuário conseguir escolher os dias em que seus objetivos/tarefas/hábitos precisam ser realizados |
-| ~ link da evidência em vídeo ou imagem ~ | <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/Caso5.gif.gif"/>
+| ~ link da evidência em vídeo ou imagem ~ | <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/Caso5.gif"/>
 | Comentário | Entrega realizada com êxito  |

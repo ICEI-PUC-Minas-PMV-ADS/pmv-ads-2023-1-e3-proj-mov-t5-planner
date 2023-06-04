@@ -6,7 +6,7 @@ O objetivo deste relatório é indicar se a aplicação Planner atende aos requi
 | Testes 	| **CT-01 - Apresentar na página principal uma dinâmica que permite verificar o quão aderente as metas da pessoa está no mês.** |
 |:---:	|:---:	| 
 | Critérios de êxito | O usuário visualizar os dias que as metas foram concluidas ou não pela intesidade da cor ou ausencia da mesma. |
-| ~ link da evidência em vídeo ou imagem ~ |  <img width="200px" src="https://user-images.githubusercontent.com/103972585/228393668-a05cc74e-a5b0-4096-8f01-dda67c617766.gif"/>
+| ~ link da evidência em vídeo ou imagem ~ |  <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/blob/main/docs/img/Caso1.gif"/>
 | Comentário | Entrega realizada com êxito  |
 
 | Testes 	| **CT-02 – Permitir selecionar um dia e verificar as tarefas a serem realizadas e as já realizadas.** |

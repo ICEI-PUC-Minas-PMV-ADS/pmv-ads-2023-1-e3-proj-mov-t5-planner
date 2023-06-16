@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-%20COMPLETED-green"/>
-  <img src="https://img.shields.io/badge/release%20date-may-green"/>
+  <img src="https://img.shields.io/badge/release%20date-june-green"/>
 </p>
 
 <p align="center">

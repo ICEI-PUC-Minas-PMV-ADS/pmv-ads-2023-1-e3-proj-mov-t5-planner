@@ -1,5 +1,6 @@
 # Apresentação
-
+⚠️🚨 Video linkado abaixo devido o GitHub suportar apenas 10mb  <br> <br>
+📽️ [VIDEO APRESENTAÇÃO PLANNER](https://drive.google.com/file/d/1BbvNl2BiYsOZmpbKjbXVH2aHRN96bZLa/view?usp=drive_link)
 
 <!-- ## Identidade Visual (Marca, Design)
 

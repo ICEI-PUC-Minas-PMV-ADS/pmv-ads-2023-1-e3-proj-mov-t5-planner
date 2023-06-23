@@ -1,8 +1,5 @@
 # Apresentação
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/assets/103972585/a7011b86-c4ea-4bca-9594-0ccfd33925ff
-
-
 
 <!-- ## Identidade Visual (Marca, Design)
 
@@ -15,7 +12,8 @@ O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do conte
  -->
 ## Conjunto de Slides (Estrutura)
 
-[Planner - Apresentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/files/11647546/Planner.-.Apresentacao.1.pptx)
+[Planner - App.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/files/11843382/Planner.-.App.pdf)
+
  
 <!-- > **Links Úteis**:
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)

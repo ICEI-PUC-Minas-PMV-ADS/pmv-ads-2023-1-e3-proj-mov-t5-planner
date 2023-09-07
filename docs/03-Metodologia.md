@@ -60,7 +60,7 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+A equipe optou por utilizar o Framework Scrum como metodologia de gerenciamento de projeto devido à sua abordagem iterativa e colaborativa, que se alinha com o desenvolvimento agíl de software. O projeto foi dividido em sprints. No início de cada sprint, serão realizadas reuniões de planejamento, na qual as atividades serão priorizadas e distribuídas entre os membros. O Trello foi utilizado para criar um quadro Kanban virtual, representando as colunas de "To Do", "In Progress" e "Done". E além disso, o time se reune semanalmente  para discutir o progresso das tarefas, identificando possíveis impedimentos e ajustes necessários para o plano de sprints.
  
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)

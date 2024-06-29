@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: Planner
+authors:
+  - family-names: Gomes Soares
+    given-names: Walber
+  - family-names: Machado Madureira
+    given-names: Juliana
+  - family-names: Silva dos Santos
+    given-names: Rayane 
+  - family-names: Filippe
+    given-names: Hiago 
+  - family-names: Gonçalves
+    given-names: Leonardo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Silva Caldeira Rocha
+    given-names: Diego
+keywords:
+  - Planejamento
+  - Gerenciamento
+  - Procrastinação
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-planner/tree/main
+version: 1.0.0
+date-released: 2023-09-07
